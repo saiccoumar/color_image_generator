@@ -13,5 +13,6 @@ https://g.co/kgs/24BAqk\
 Ex. ![image](https://github.com/saiccoumar/color_image_generator/assets/55699636/2f2700e1-872a-4a6c-a4e1-ed7b5753b116)\
 ![teal](https://github.com/saiccoumar/color_image_generator/assets/55699636/82f445cd-24d3-4430-b7cf-5e4fc00b1853)
 ![purple](https://github.com/saiccoumar/color_image_generator/assets/55699636/d6c26197-89c5-4ce6-8e0a-eb6bcaf51e18)
-![orange](https://github.com/saiccoumar/color_image_generator/assets/55699636/b8ad1b32-2e47-449e-aa4b-687a4ed13ae2)\
+![orange](https://github.com/saiccoumar/color_image_generator/assets/55699636/b8ad1b32-2e47-449e-aa4b-687a4ed13ae2)
+![yellow](https://github.com/saiccoumar/color_image_generator/assets/55699636/81a62997-52a2-4af9-8661-84feb81f61a2)
 
